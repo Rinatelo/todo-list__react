@@ -10,7 +10,7 @@ function App() {
     },
     {
       text: 'Разработать ToDo на ReactJS',
-      completed: false,
+      completed: true,
     },
     {
       text: 'Устроиться на работу или стажировку',
